@@ -8,6 +8,7 @@ class Enum
 	const SADAD = 'SADAD';
 	const SAMAN = 'SAMAN';
 	const ASANPARDAKHT = 'ASANPARDAKHT';
+	const ZARINPAL = 'ZARINPAL';
 
   	static function getIPGs(){
 
